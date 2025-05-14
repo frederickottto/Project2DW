@@ -3,7 +3,7 @@ services:
     name: streamlit-dashboard
     env: python
     buildCommand: ""
-    startCommand: streamlit run dashboard.py --server.port $PORT --server.enableCORS false
+    startCommand: streamlit run dashboardProject2.py --server.port $PORT --server.enableCORS false
     repo: https://github.com/frederickottto/Project2DW
     branch: main
     plan: free
