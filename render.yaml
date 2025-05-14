@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: streamlit-dashboard
-    env: python
-    buildCommand: ""
-    startCommand: streamlit run dashboardProject2.py --server.port $PORT --server.enableCORS false
-    repo: https://github.com/frederickottto/Project2DW
-    branch: main
-    plan: free
