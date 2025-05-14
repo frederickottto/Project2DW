@@ -29,3 +29,6 @@ The interactive dashboard was built using [Streamlit](https://streamlit.io). It 
 - Explore scatterplots with trendlines
 - View tables and bar charts for key statistics
 
+## Visuals
+![newplot](https://github.com/user-attachments/assets/6842a125-938d-4169-a908-ec3a7178bc50)
+
