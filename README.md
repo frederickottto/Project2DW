@@ -32,3 +32,12 @@ The interactive dashboard was built using [Streamlit](https://streamlit.io). It 
 ## Visuals
 ![newplot](https://github.com/user-attachments/assets/6842a125-938d-4169-a908-ec3a7178bc50)
 
+![newplot1](https://github.com/user-attachments/assets/a11fdf57-7c9e-4b58-be22-45870c46c314)
+
+![newplot2](https://github.com/user-attachments/assets/67627eeb-5cc5-403c-acbb-b3c5812bff57)
+
+![newplot3](https://github.com/user-attachments/assets/9e7e1c45-878b-4c17-a86e-dee746ebf133)
+
+![newplot4](https://github.com/user-attachments/assets/e8579daa-c11a-4920-a242-0bdf1406705a)
+
+![newplot5](https://github.com/user-attachments/assets/51d66eb9-eb6e-470a-8dd1-6b13e29df0d0)
