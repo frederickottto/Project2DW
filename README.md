@@ -23,7 +23,7 @@ The dataset includes yearly serve and return leaderboard statistics for top ATP 
 
 ##  Dashboard
 
-The interactive dashboard was built using [Streamlit](https://streamlit.io). It allows users to:
+The interactive dashboard was built using Stremlit. It allows users to:
 - Filter statistics by year and player
 - Compare serve and return performance
 - Explore scatterplots with trendlines
